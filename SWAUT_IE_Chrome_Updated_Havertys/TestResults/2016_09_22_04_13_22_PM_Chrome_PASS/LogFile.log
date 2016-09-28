@@ -1,0 +1,640 @@
+ INFO | 2016-09-22 16:13:22,970 | Common.java | 64 | Startup activites...
+ INFO | 2016-09-22 16:13:22,972 | Common.java | 64 | Test Output Directory creation successful :D:\SWAUT\TestResults\2016_09_22_04_13_22_PM
+ INFO | 2016-09-22 16:13:22,972 | Common.java | 64 | Log File creation successful : LogFile.log
+ INFO | 2016-09-22 16:13:23,164 | Common.java | 64 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2016-09-22 16:13:23,250 | Common.java | 64 | Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2016-09-22 16:13:23,381 | Common.java | 64 | Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2016-09-22 16:13:23,382 | Common.java | 64 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-09-22 16:13:23,383 | Common.java | 64 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-09-22 16:13:23,383 | Common.java | 64 | Getting value of PageLoadWaitTime from Test Configuration file : 50
+ INFO | 2016-09-22 16:13:23,383 | Common.java | 64 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-09-22 16:13:23,384 | Common.java | 64 | Element time out set
+ INFO | 2016-09-22 16:13:23,384 | Common.java | 64 | ##### Start of Test Case : Protection Plan Without Login #####
+ INFO | 2016-09-22 16:13:23,384 | Common.java | 64 | Test Case Name: TC_001
+ INFO | 2016-09-22 16:13:23,384 | Common.java | 64 | Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2016-09-22 16:13:23,435 | Common.java | 64 | Test Data Set Name: TC_001
+ INFO | 2016-09-22 16:13:23,436 | Common.java | 64 | Execution Flag: Execute
+ INFO | 2016-09-22 16:13:23,437 | Common.java | 64 | Test Data Set Name: TC_001_PPWL_1
+ INFO | 2016-09-22 16:13:23,437 | Common.java | 64 | Execution Flag: YES
+ INFO | 2016-09-22 16:13:23,437 | Common.java | 64 | Test Data Set Name: TC_001_PPWL_2
+ INFO | 2016-09-22 16:13:23,437 | Common.java | 64 | Execution Flag: NO
+ INFO | 2016-09-22 16:13:23,437 | Common.java | 64 | Test Data Set Name: TC_001_PPWL_3
+ INFO | 2016-09-22 16:13:23,437 | Common.java | 64 | Execution Flag: NO
+ INFO | 2016-09-22 16:13:23,437 | Common.java | 64 | Test Data Set Name: 
+ INFO | 2016-09-22 16:13:23,438 | Common.java | 64 | Execution Flag: 
+ INFO | 2016-09-22 16:13:23,442 | Common.java | 64 | Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2016-09-22 16:13:26,292 | Common.java | 64 | Getting value of url from Test Configuration file : http://www.havertys.com/
+ INFO | 2016-09-22 16:13:35,221 | Common.java | 64 | Entered value - Amalfi Sofa in the text field- Search Box
+ERROR | 2016-09-22 16:13:35,222 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:13:35,222 | Common.java | 64 | Entered in Search Box as: Amalfi Sofa
+ERROR | 2016-09-22 16:13:35,222 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:13:35,315 | Common.java | 64 | Clicked on WebElement-Searching Element
+ERROR | 2016-09-22 16:13:35,316 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:13:46,437 | Common.java | 64 | Clicked on WebElement-Amalfi Sofa
+ERROR | 2016-09-22 16:13:46,437 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:13:46,812 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:13:53,296 | Common.java | 64 | Clicked on WebElement-Add To Cart Button
+ERROR | 2016-09-22 16:13:53,297 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:13:54,116 | Common.java | 64 | Entered value - 30343 in the text field- Zipcode
+ERROR | 2016-09-22 16:13:54,116 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:13:54,116 | Common.java | 64 | Entered in ZipCode as: 30343
+ERROR | 2016-09-22 16:13:54,116 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:13:56,218 | Common.java | 64 | Clicked on -Popup Ok- Element
+ERROR | 2016-09-22 16:13:56,219 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:13:56,219 | Common.java | 64 | Successfully Added to Cart
+ERROR | 2016-09-22 16:13:56,219 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:13:56,407 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:13:57,567 | Common.java | 64 | Clicked on WebElement-Go To Cart Button
+ERROR | 2016-09-22 16:13:57,567 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:14:08,244 | Common.java | 64 | Expected Protection Plan Amount in Shopping Cart is 0 -->and Actual is -->0.0
+ERROR | 2016-09-22 16:14:08,244 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:14:08,316 | Common.java | 64 | Clicked on WebElement-Checkout Button
+ERROR | 2016-09-22 16:14:08,316 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:14:12,499 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:14:12,499 | Common.java | 64 | Successfully Navigated to SIGN INPage!!
+ERROR | 2016-09-22 16:14:12,499 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:14:19,105 | Common.java | 64 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-09-22 16:14:19,106 | Common.java | 64 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-09-22 16:14:19,106 | Common.java | 64 | Getting value of PageLoadWaitTime from Test Configuration file : 50
+ INFO | 2016-09-22 16:14:19,106 | Common.java | 64 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-09-22 16:14:19,106 | Common.java | 64 | Element time out set
+ INFO | 2016-09-22 16:14:19,106 | Common.java | 64 | ##### Start of Test Case : Protection Plan as Guest User #####
+ INFO | 2016-09-22 16:14:19,106 | Common.java | 64 | Test Case Name: TC_002
+ INFO | 2016-09-22 16:14:19,106 | Common.java | 64 | Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2016-09-22 16:14:19,194 | Common.java | 64 | Test Data Set Name: TC_002
+ INFO | 2016-09-22 16:14:19,194 | Common.java | 64 | Execution Flag: Execute
+ INFO | 2016-09-22 16:14:19,194 | Common.java | 64 | Test Data Set Name: TC_002_PPGU_1
+ INFO | 2016-09-22 16:14:19,194 | Common.java | 64 | Execution Flag: YES
+ INFO | 2016-09-22 16:14:19,194 | Common.java | 64 | Test Data Set Name: TC_002_PPGU_2
+ INFO | 2016-09-22 16:14:19,194 | Common.java | 64 | Execution Flag: NO
+ INFO | 2016-09-22 16:14:19,195 | Common.java | 64 | Test Data Set Name: TC_002_PPGU_3
+ INFO | 2016-09-22 16:14:19,195 | Common.java | 64 | Execution Flag: NO
+ INFO | 2016-09-22 16:14:19,195 | Common.java | 64 | Test Data Set Name: 
+ INFO | 2016-09-22 16:14:19,195 | Common.java | 64 | Execution Flag: 
+ INFO | 2016-09-22 16:14:19,195 | Common.java | 64 | Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2016-09-22 16:14:21,736 | Common.java | 64 | Getting value of url from Test Configuration file : http://www.havertys.com/
+ INFO | 2016-09-22 16:14:34,098 | Common.java | 64 | Entered value - Amalfi Sofa in the text field- Search Box
+ERROR | 2016-09-22 16:14:34,099 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:14:34,099 | Common.java | 64 | Entered in Search Box as: Amalfi Sofa
+ERROR | 2016-09-22 16:14:34,099 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:14:34,195 | Common.java | 64 | Clicked on WebElement-Searching Element
+ERROR | 2016-09-22 16:14:34,195 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:14:46,273 | Common.java | 64 | Clicked on WebElement-Amalfi Sofa
+ERROR | 2016-09-22 16:14:46,274 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:14:46,484 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:14:53,590 | Common.java | 64 | Clicked on WebElement-Add To Cart Button
+ERROR | 2016-09-22 16:14:53,590 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:14:53,963 | Common.java | 64 | Entered value - 30343 in the text field- Zipcode
+ERROR | 2016-09-22 16:14:53,963 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:14:53,964 | Common.java | 64 | Entered in ZipCode as: 30343
+ERROR | 2016-09-22 16:14:53,965 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:14:56,022 | Common.java | 64 | Clicked on -Popup Ok- Element
+ERROR | 2016-09-22 16:14:56,023 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:14:56,023 | Common.java | 64 | Successfully Added to Cart
+ERROR | 2016-09-22 16:14:56,023 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:14:56,206 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:14:57,342 | Common.java | 64 | Clicked on WebElement-Go To Cart Button
+ERROR | 2016-09-22 16:14:57,342 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:15:05,027 | Common.java | 64 | Clicked on WebElement-Checkout Button
+ERROR | 2016-09-22 16:15:05,027 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:15:09,213 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:15:09,213 | Common.java | 64 | Successfully Navigated to SIGN INPage!!
+ERROR | 2016-09-22 16:15:09,214 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:15:09,275 | Common.java | 64 | Clicked on WebElement-Checkout as Guest User
+ERROR | 2016-09-22 16:15:09,275 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:15:12,212 | Common.java | 64 | Navigated To Protection Plan Page!!
+ERROR | 2016-09-22 16:15:12,212 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:15:12,398 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:15:15,260 | Common.java | 64 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-09-22 16:15:15,260 | Common.java | 64 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-09-22 16:15:15,260 | Common.java | 64 | Getting value of PageLoadWaitTime from Test Configuration file : 50
+ INFO | 2016-09-22 16:15:15,260 | Common.java | 64 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-09-22 16:15:15,260 | Common.java | 64 | Element time out set
+ INFO | 2016-09-22 16:15:15,260 | Common.java | 64 | ##### Start of Test Case : Protection Plan as Existing User #####
+ INFO | 2016-09-22 16:15:15,260 | Common.java | 64 | Test Case Name: TC_003
+ INFO | 2016-09-22 16:15:15,260 | Common.java | 64 | Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2016-09-22 16:15:15,340 | Common.java | 64 | Test Data Set Name: TC_003
+ INFO | 2016-09-22 16:15:15,340 | Common.java | 64 | Execution Flag: Execute
+ INFO | 2016-09-22 16:15:15,340 | Common.java | 64 | Test Data Set Name: TC_003_PPEU_1
+ INFO | 2016-09-22 16:15:15,340 | Common.java | 64 | Execution Flag: YES
+ INFO | 2016-09-22 16:15:15,340 | Common.java | 64 | Test Data Set Name: TC_003_PPEU_2
+ INFO | 2016-09-22 16:15:15,340 | Common.java | 64 | Execution Flag: NO
+ INFO | 2016-09-22 16:15:15,340 | Common.java | 64 | Test Data Set Name: 
+ INFO | 2016-09-22 16:15:15,340 | Common.java | 64 | Execution Flag: 
+ INFO | 2016-09-22 16:15:15,341 | Common.java | 64 | Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2016-09-22 16:15:17,971 | Common.java | 64 | Getting value of url from Test Configuration file : http://www.havertys.com/
+ INFO | 2016-09-22 16:15:27,502 | Common.java | 64 | Entered value - Amalfi Sofa in the text field- Search Box
+ERROR | 2016-09-22 16:15:27,503 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:15:27,503 | Common.java | 64 | Entered in Search Box as: Amalfi Sofa
+ERROR | 2016-09-22 16:15:27,503 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:15:27,603 | Common.java | 64 | Clicked on WebElement-Searching Element
+ERROR | 2016-09-22 16:15:27,603 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:15:32,665 | Common.java | 64 | Clicked on WebElement-Amalfi Sofa
+ERROR | 2016-09-22 16:15:32,665 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:15:32,872 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:15:40,264 | Common.java | 64 | Clicked on WebElement-Add To Cart Button
+ERROR | 2016-09-22 16:15:40,264 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:15:40,614 | Common.java | 64 | Entered value - 30343 in the text field- Zipcode
+ERROR | 2016-09-22 16:15:40,615 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:15:40,615 | Common.java | 64 | Entered in ZipCode as: 30343
+ERROR | 2016-09-22 16:15:40,615 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:15:42,668 | Common.java | 64 | Clicked on -Popup Ok- Element
+ERROR | 2016-09-22 16:15:42,669 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:15:42,669 | Common.java | 64 | Successfully Added to Cart
+ERROR | 2016-09-22 16:15:42,669 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:15:42,872 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:15:43,979 | Common.java | 64 | Clicked on WebElement-Go To Cart Button
+ERROR | 2016-09-22 16:15:43,980 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:15:51,893 | Common.java | 64 | Expected Protection Plan Amount in Shopping Cart is 0 -->and Actual is -->0.0
+ERROR | 2016-09-22 16:15:51,893 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:15:51,956 | Common.java | 64 | Clicked on WebElement-Checkout Button
+ERROR | 2016-09-22 16:15:51,956 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:15:56,142 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:15:56,143 | Common.java | 64 | Successfully Navigated to SIGN INPage!!
+ERROR | 2016-09-22 16:15:56,143 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:15:56,271 | Common.java | 64 | Entered value - qwerty@gmail.com in the text field- Email Id
+ERROR | 2016-09-22 16:15:56,272 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:15:56,272 | Common.java | 64 | Entered Email Id as: qwerty@gmail.com
+ERROR | 2016-09-22 16:15:56,272 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:15:56,444 | Common.java | 64 | Entered value - 123456 in the text field- Password
+ERROR | 2016-09-22 16:15:56,445 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:15:56,445 | Common.java | 64 | Entered Password as: 123456
+ERROR | 2016-09-22 16:15:56,445 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:15:56,523 | Common.java | 64 | Clicked on WebElement-Login Submit
+ERROR | 2016-09-22 16:15:56,523 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:16:01,319 | Common.java | 64 | Navigated To Protection Plan Page!!
+ERROR | 2016-09-22 16:16:01,320 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:16:01,536 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:16:05,565 | Common.java | 64 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-09-22 16:16:05,565 | Common.java | 64 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-09-22 16:16:05,566 | Common.java | 64 | Getting value of PageLoadWaitTime from Test Configuration file : 50
+ INFO | 2016-09-22 16:16:05,566 | Common.java | 64 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-09-22 16:16:05,566 | Common.java | 64 | Element time out set
+ INFO | 2016-09-22 16:16:05,566 | Common.java | 64 | ##### Start of Test Case : Add Gold Plan to Existing User #####
+ INFO | 2016-09-22 16:16:05,566 | Common.java | 64 | Test Case Name: TC_005
+ INFO | 2016-09-22 16:16:05,566 | Common.java | 64 | Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2016-09-22 16:16:05,615 | Common.java | 64 | Test Data Set Name: TC_005
+ INFO | 2016-09-22 16:16:05,615 | Common.java | 64 | Execution Flag: Execute
+ INFO | 2016-09-22 16:16:05,615 | Common.java | 64 | Test Data Set Name: TC_005_AGP_1
+ INFO | 2016-09-22 16:16:05,615 | Common.java | 64 | Execution Flag: YES
+ INFO | 2016-09-22 16:16:05,615 | Common.java | 64 | Test Data Set Name: TC_005_AGP_2
+ INFO | 2016-09-22 16:16:05,615 | Common.java | 64 | Execution Flag: NO
+ INFO | 2016-09-22 16:16:05,615 | Common.java | 64 | Test Data Set Name: TC_005_AGP_3
+ INFO | 2016-09-22 16:16:05,615 | Common.java | 64 | Execution Flag: NO
+ INFO | 2016-09-22 16:16:05,615 | Common.java | 64 | Test Data Set Name: 
+ INFO | 2016-09-22 16:16:05,615 | Common.java | 64 | Execution Flag: 
+ INFO | 2016-09-22 16:16:05,616 | Common.java | 64 | Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2016-09-22 16:16:08,812 | Common.java | 64 | Getting value of url from Test Configuration file : http://www.havertys.com/
+ INFO | 2016-09-22 16:16:18,890 | Common.java | 64 | Clicked on WebElement-Sign In
+ERROR | 2016-09-22 16:16:18,890 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:16:24,857 | Common.java | 64 | Entered value - bmn213@gmail.com in the text field- Email Id
+ERROR | 2016-09-22 16:16:24,857 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:16:24,858 | Common.java | 64 | Entered Email Id as: bmn213@gmail.com
+ERROR | 2016-09-22 16:16:24,858 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:16:24,964 | Common.java | 64 | Entered value - 123456 in the text field- Password
+ERROR | 2016-09-22 16:16:24,964 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:16:24,964 | Common.java | 64 | Entered Password as: 123456
+ERROR | 2016-09-22 16:16:24,965 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:16:25,044 | Common.java | 64 | Clicked on WebElement-Login Submit
+ERROR | 2016-09-22 16:16:25,044 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:16:28,978 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:16:28,979 | Common.java | 64 | Successfully Navigated to MyHavertysPage!!
+ERROR | 2016-09-22 16:16:28,979 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:16:29,065 | Common.java | 64 | Clicked on WebElement-Cart
+ERROR | 2016-09-22 16:16:29,066 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:16:33,207 | Common.java | 64 | Clicked on -Go to Cart- Element
+ERROR | 2016-09-22 16:16:33,208 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:16:38,314 | Common.java | 64 | Clicked on WebElement-Delete Cart Entry
+ERROR | 2016-09-22 16:16:38,315 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:16:46,848 | Common.java | 64 | Entered value - Amalfi Sofa in the text field- Search Box
+ERROR | 2016-09-22 16:16:46,848 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:16:46,848 | Common.java | 64 | Entered in Search Box as: Amalfi Sofa
+ERROR | 2016-09-22 16:16:46,849 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:16:46,988 | Common.java | 64 | Clicked on WebElement-Searching Element
+ERROR | 2016-09-22 16:16:46,988 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:16:54,950 | Common.java | 64 | Clicked on WebElement-Amalfi Sofa
+ERROR | 2016-09-22 16:16:54,950 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:16:55,158 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:16:59,823 | Common.java | 64 | Clicked on WebElement-Add To Cart Button
+ERROR | 2016-09-22 16:16:59,823 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:17:01,754 | Common.java | 64 | Entered value - 30343 in the text field- Zipcode
+ERROR | 2016-09-22 16:17:01,754 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:17:01,755 | Common.java | 64 | Entered in ZipCode as: 30343
+ERROR | 2016-09-22 16:17:01,755 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:17:03,818 | Common.java | 64 | Clicked on -Popup Ok- Element
+ERROR | 2016-09-22 16:17:03,818 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:17:03,818 | Common.java | 64 | Successfully Added to Cart
+ERROR | 2016-09-22 16:17:03,818 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:17:04,021 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:17:05,120 | Common.java | 64 | Clicked on WebElement-Go To Cart Button
+ERROR | 2016-09-22 16:17:05,120 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:17:07,878 | Common.java | 64 | Clicked on WebElement-Add Protection Plan
+ERROR | 2016-09-22 16:17:07,879 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:17:12,254 | Common.java | 64 | Clicked on -Add Gold Plan- Element
+ERROR | 2016-09-22 16:17:12,254 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:17:16,316 | Common.java | 64 | Clicked on WebElement-Edit Shopping Cart
+ERROR | 2016-09-22 16:17:16,317 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:17:19,187 | Common.java | 64 | Clicked on WebElement-Checkout Button
+ERROR | 2016-09-22 16:17:19,187 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:17:21,716 | Common.java | 64 | Item is protected!!
+ERROR | 2016-09-22 16:17:21,717 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:17:21,777 | Common.java | 64 | 699.99is within the range of 500.01 and 750.0
+ INFO | 2016-09-22 16:17:21,777 | Common.java | 64 | Report step generation success : 699.99is within the range of 500.01 and 750.0
+ INFO | 2016-09-22 16:17:21,777 | Common.java | 64 | Production Sub Total: 699.99Actual Gold Plan Price: 99.99--> Expected Gold Plan Price: 99.99
+ERROR | 2016-09-22 16:17:21,777 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:17:25,812 | Common.java | 64 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-09-22 16:17:25,812 | Common.java | 64 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-09-22 16:17:25,812 | Common.java | 64 | Getting value of PageLoadWaitTime from Test Configuration file : 50
+ INFO | 2016-09-22 16:17:25,813 | Common.java | 64 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-09-22 16:17:25,813 | Common.java | 64 | Element time out set
+ INFO | 2016-09-22 16:17:25,813 | Common.java | 64 | ##### Start of Test Case : Remove Gold Plan from Existing User #####
+ INFO | 2016-09-22 16:17:25,813 | Common.java | 64 | Test Case Name: TC_006
+ INFO | 2016-09-22 16:17:25,813 | Common.java | 64 | Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2016-09-22 16:17:25,873 | Common.java | 64 | Test Data Set Name: TC_006
+ INFO | 2016-09-22 16:17:25,873 | Common.java | 64 | Execution Flag: Execute
+ INFO | 2016-09-22 16:17:25,874 | Common.java | 64 | Test Data Set Name: TC_006_RGP_1
+ INFO | 2016-09-22 16:17:25,874 | Common.java | 64 | Execution Flag: YES
+ INFO | 2016-09-22 16:17:25,874 | Common.java | 64 | Test Data Set Name: TC_006_RGP_2
+ INFO | 2016-09-22 16:17:25,874 | Common.java | 64 | Execution Flag: NO
+ INFO | 2016-09-22 16:17:25,874 | Common.java | 64 | Test Data Set Name: TC_006_RGP_3
+ INFO | 2016-09-22 16:17:25,874 | Common.java | 64 | Execution Flag: NO
+ INFO | 2016-09-22 16:17:25,874 | Common.java | 64 | Test Data Set Name: 
+ INFO | 2016-09-22 16:17:25,874 | Common.java | 64 | Execution Flag: 
+ INFO | 2016-09-22 16:17:25,874 | Common.java | 64 | Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2016-09-22 16:17:27,872 | Common.java | 64 | Getting value of url from Test Configuration file : http://www.havertys.com/
+ INFO | 2016-09-22 16:17:38,865 | Common.java | 64 | Clicked on WebElement-Sign In
+ERROR | 2016-09-22 16:17:38,865 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:17:45,409 | Common.java | 64 | Entered value - bmn213@gmail.com in the text field- Email Id
+ERROR | 2016-09-22 16:17:45,409 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:17:45,409 | Common.java | 64 | Entered Email Id as: bmn213@gmail.com
+ERROR | 2016-09-22 16:17:45,409 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:17:45,516 | Common.java | 64 | Entered value - 123456 in the text field- Password
+ERROR | 2016-09-22 16:17:45,517 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:17:45,517 | Common.java | 64 | Entered Password as: 123456
+ERROR | 2016-09-22 16:17:45,517 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:17:45,588 | Common.java | 64 | Clicked on WebElement-Login Submit
+ERROR | 2016-09-22 16:17:45,588 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:17:49,220 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:17:49,221 | Common.java | 64 | Successfully Navigated to MyHavertysPage!!
+ERROR | 2016-09-22 16:17:49,221 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:17:49,303 | Common.java | 64 | Clicked on WebElement-Cart
+ERROR | 2016-09-22 16:17:49,304 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:17:51,729 | Common.java | 64 | Clicked on -Go to Cart- Element
+ERROR | 2016-09-22 16:17:51,729 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:17:56,824 | Common.java | 64 | Clicked on WebElement-Delete Cart Entry
+ERROR | 2016-09-22 16:17:56,824 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:17:59,901 | Common.java | 64 | Entered value - Amalfi Sofa in the text field- Search Box
+ERROR | 2016-09-22 16:17:59,902 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:17:59,902 | Common.java | 64 | Entered in Search Box as: Amalfi Sofa
+ERROR | 2016-09-22 16:17:59,902 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:17:59,989 | Common.java | 64 | Clicked on WebElement-Searching Element
+ERROR | 2016-09-22 16:17:59,990 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:18:06,332 | Common.java | 64 | Clicked on WebElement-Amalfi Sofa
+ERROR | 2016-09-22 16:18:06,332 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:18:06,545 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:18:09,366 | Common.java | 64 | Clicked on WebElement-Add To Cart Button
+ERROR | 2016-09-22 16:18:09,367 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:18:11,320 | Common.java | 64 | Entered value - 30343 in the text field- Zipcode
+ERROR | 2016-09-22 16:18:11,320 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:18:11,320 | Common.java | 64 | Entered in ZipCode as: 30343
+ERROR | 2016-09-22 16:18:11,321 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:18:13,746 | Common.java | 64 | Clicked on -Popup Ok- Element
+ERROR | 2016-09-22 16:18:13,746 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:18:13,746 | Common.java | 64 | Successfully Added to Cart
+ERROR | 2016-09-22 16:18:13,746 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:18:13,981 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:18:15,084 | Common.java | 64 | Clicked on WebElement-Go To Cart Button
+ERROR | 2016-09-22 16:18:15,085 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:18:18,017 | Common.java | 64 | Clicked on WebElement-Add Protection Plan
+ERROR | 2016-09-22 16:18:18,018 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:18:22,215 | Common.java | 64 | Clicked on -Add Gold Plan- Element
+ERROR | 2016-09-22 16:18:22,216 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:18:24,329 | Common.java | 64 | Clicked on WebElement-Remove Protection Plan
+ERROR | 2016-09-22 16:18:24,329 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:18:24,352 | Common.java | 64 | Add Gold plan is visible..
+ INFO | 2016-09-22 16:18:24,353 | Common.java | 64 | Report step generation success : Add Gold plan is visible..
+ INFO | 2016-09-22 16:18:27,715 | Common.java | 64 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-09-22 16:18:27,715 | Common.java | 64 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-09-22 16:18:27,715 | Common.java | 64 | Getting value of PageLoadWaitTime from Test Configuration file : 50
+ INFO | 2016-09-22 16:18:27,716 | Common.java | 64 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-09-22 16:18:27,716 | Common.java | 64 | Element time out set
+ INFO | 2016-09-22 16:18:27,716 | Common.java | 64 | ##### Start of Test Case : Learn More about Gold Plan #####
+ INFO | 2016-09-22 16:18:27,716 | Common.java | 64 | Test Case Name: TC_007
+ INFO | 2016-09-22 16:18:27,716 | Common.java | 64 | Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2016-09-22 16:18:27,780 | Common.java | 64 | Test Data Set Name: TC_007
+ INFO | 2016-09-22 16:18:27,780 | Common.java | 64 | Execution Flag: Execute
+ INFO | 2016-09-22 16:18:27,780 | Common.java | 64 | Test Data Set Name: TC_007_LMGP_1
+ INFO | 2016-09-22 16:18:27,780 | Common.java | 64 | Execution Flag: YES
+ INFO | 2016-09-22 16:18:27,780 | Common.java | 64 | Test Data Set Name: TC_007_LMGP_2
+ INFO | 2016-09-22 16:18:27,780 | Common.java | 64 | Execution Flag: NO
+ INFO | 2016-09-22 16:18:27,780 | Common.java | 64 | Test Data Set Name: TC_007_LMGP_3
+ INFO | 2016-09-22 16:18:27,780 | Common.java | 64 | Execution Flag: NO
+ INFO | 2016-09-22 16:18:27,780 | Common.java | 64 | Test Data Set Name: 
+ INFO | 2016-09-22 16:18:27,781 | Common.java | 64 | Execution Flag: 
+ INFO | 2016-09-22 16:18:27,781 | Common.java | 64 | Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2016-09-22 16:18:29,795 | Common.java | 64 | Getting value of url from Test Configuration file : http://www.havertys.com/
+ INFO | 2016-09-22 16:18:39,277 | Common.java | 64 | Clicked on WebElement-Sign In
+ERROR | 2016-09-22 16:18:39,277 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:18:45,264 | Common.java | 64 | Entered value - bmn213@gmail.com in the text field- Email Id
+ERROR | 2016-09-22 16:18:45,264 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:18:45,264 | Common.java | 64 | Entered Email Id as: bmn213@gmail.com
+ERROR | 2016-09-22 16:18:45,264 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:18:45,366 | Common.java | 64 | Entered value - 123456 in the text field- Password
+ERROR | 2016-09-22 16:18:45,367 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:18:45,367 | Common.java | 64 | Entered Password as: 123456
+ERROR | 2016-09-22 16:18:45,367 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:18:45,437 | Common.java | 64 | Clicked on WebElement-Login Submit
+ERROR | 2016-09-22 16:18:45,437 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:18:50,138 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:18:50,138 | Common.java | 64 | Successfully Navigated to MyHavertysPage!!
+ERROR | 2016-09-22 16:18:50,138 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:18:50,264 | Common.java | 64 | Entered value - Amalfi Sofa in the text field- Search Box
+ERROR | 2016-09-22 16:18:50,264 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:18:50,264 | Common.java | 64 | Entered in Search Box as: Amalfi Sofa
+ERROR | 2016-09-22 16:18:50,265 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:18:50,362 | Common.java | 64 | Clicked on WebElement-Searching Element
+ERROR | 2016-09-22 16:18:50,362 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:18:55,943 | Common.java | 64 | Clicked on WebElement-Amalfi Sofa
+ERROR | 2016-09-22 16:18:55,943 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:18:56,171 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:19:00,163 | Common.java | 64 | Clicked on WebElement-Add To Cart Button
+ERROR | 2016-09-22 16:19:00,163 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:19:00,708 | Common.java | 64 | Entered value - 30343 in the text field- Zipcode
+ERROR | 2016-09-22 16:19:00,708 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:19:00,708 | Common.java | 64 | Entered in ZipCode as: 30343
+ERROR | 2016-09-22 16:19:00,708 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:19:02,888 | Common.java | 64 | Clicked on -Popup Ok- Element
+ERROR | 2016-09-22 16:19:02,888 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:19:02,889 | Common.java | 64 | Successfully Added to Cart
+ERROR | 2016-09-22 16:19:02,889 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:19:03,088 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:19:04,188 | Common.java | 64 | Clicked on WebElement-Go To Cart Button
+ERROR | 2016-09-22 16:19:04,188 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:19:07,735 | Common.java | 64 | Clicked on WebElement-Add Protection Plan
+ERROR | 2016-09-22 16:19:07,735 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:19:13,625 | Common.java | 64 | Clicked on -Add Gold Plan- Element
+ERROR | 2016-09-22 16:19:13,625 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:19:15,705 | Common.java | 64 | Clicked on WebElement-Learn More
+ERROR | 2016-09-22 16:19:15,706 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:19:18,134 | Common.java | 64 | Navigated to the page -Havertys - Protection Plans- successfully
+ERROR | 2016-09-22 16:19:18,134 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:19:18,135 | Common.java | 64 | New tab opens with Gold plan Details
+ERROR | 2016-09-22 16:19:18,135 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:19:21,011 | Common.java | 64 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-09-22 16:19:21,011 | Common.java | 64 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-09-22 16:19:21,012 | Common.java | 64 | Getting value of PageLoadWaitTime from Test Configuration file : 50
+ INFO | 2016-09-22 16:19:21,012 | Common.java | 64 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-09-22 16:19:21,012 | Common.java | 64 | Element time out set
+ INFO | 2016-09-22 16:19:21,012 | Common.java | 64 | ##### Start of Test Case : Next Button in Protection Plan Page #####
+ INFO | 2016-09-22 16:19:21,012 | Common.java | 64 | Test Case Name: TC_008
+ INFO | 2016-09-22 16:19:21,012 | Common.java | 64 | Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2016-09-22 16:19:21,072 | Common.java | 64 | Test Data Set Name: TC_008
+ INFO | 2016-09-22 16:19:21,072 | Common.java | 64 | Execution Flag: Execute
+ INFO | 2016-09-22 16:19:21,072 | Common.java | 64 | Test Data Set Name: TC_008_NPP_1
+ INFO | 2016-09-22 16:19:21,072 | Common.java | 64 | Execution Flag: YES
+ INFO | 2016-09-22 16:19:21,072 | Common.java | 64 | Test Data Set Name: TC_008_NPP_2
+ INFO | 2016-09-22 16:19:21,072 | Common.java | 64 | Execution Flag: NO
+ INFO | 2016-09-22 16:19:21,072 | Common.java | 64 | Test Data Set Name: TC_008_NPP_3
+ INFO | 2016-09-22 16:19:21,072 | Common.java | 64 | Execution Flag: NO
+ INFO | 2016-09-22 16:19:21,072 | Common.java | 64 | Test Data Set Name: 
+ INFO | 2016-09-22 16:19:21,072 | Common.java | 64 | Execution Flag: 
+ INFO | 2016-09-22 16:19:21,073 | Common.java | 64 | Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2016-09-22 16:19:22,939 | Common.java | 64 | Getting value of url from Test Configuration file : http://www.havertys.com/
+ INFO | 2016-09-22 16:19:32,939 | Common.java | 64 | Clicked on WebElement-Sign In
+ERROR | 2016-09-22 16:19:32,939 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:19:38,606 | Common.java | 64 | Entered value - cfg123@gmail.com in the text field- Email Id
+ERROR | 2016-09-22 16:19:38,606 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:19:38,606 | Common.java | 64 | Entered Email Id as: cfg123@gmail.com
+ERROR | 2016-09-22 16:19:38,606 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:19:38,707 | Common.java | 64 | Entered value - 123456 in the text field- Password
+ERROR | 2016-09-22 16:19:38,707 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:19:38,707 | Common.java | 64 | Entered Password as: 123456
+ERROR | 2016-09-22 16:19:38,707 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:19:38,776 | Common.java | 64 | Clicked on WebElement-Login Submit
+ERROR | 2016-09-22 16:19:38,776 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:19:44,508 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:19:44,508 | Common.java | 64 | Successfully Navigated to MyHavertysPage!!
+ERROR | 2016-09-22 16:19:44,508 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:19:44,614 | Common.java | 64 | Entered value - Amalfi Sofa in the text field- Search Box
+ERROR | 2016-09-22 16:19:44,614 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:19:44,614 | Common.java | 64 | Entered in Search Box as: Amalfi Sofa
+ERROR | 2016-09-22 16:19:44,614 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:19:44,694 | Common.java | 64 | Clicked on WebElement-Searching Element
+ERROR | 2016-09-22 16:19:44,694 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:19:50,000 | Common.java | 64 | Clicked on WebElement-Amalfi Sofa
+ERROR | 2016-09-22 16:19:50,000 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:19:50,205 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:19:54,393 | Common.java | 64 | Clicked on WebElement-Add To Cart Button
+ERROR | 2016-09-22 16:19:54,393 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:19:58,581 | Common.java | 64 | Entered value - 30343 in the text field- Zipcode
+ERROR | 2016-09-22 16:19:58,581 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:19:58,581 | Common.java | 64 | Entered in ZipCode as: 30343
+ERROR | 2016-09-22 16:19:58,581 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:20:00,635 | Common.java | 64 | Clicked on -Popup Ok- Element
+ERROR | 2016-09-22 16:20:00,635 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:20:00,635 | Common.java | 64 | Successfully Added to Cart
+ERROR | 2016-09-22 16:20:00,635 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:20:00,849 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:20:01,950 | Common.java | 64 | Clicked on WebElement-Go To Cart Button
+ERROR | 2016-09-22 16:20:01,951 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:20:06,421 | Common.java | 64 | Clicked on WebElement-Add Protection Plan
+ERROR | 2016-09-22 16:20:06,421 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:20:10,869 | Common.java | 64 | Clicked on WebElement-Next button
+ERROR | 2016-09-22 16:20:10,870 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:20:12,914 | Common.java | 64 | Navigated To Delivery Page!!
+ERROR | 2016-09-22 16:20:12,914 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:20:15,629 | Common.java | 64 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-09-22 16:20:15,629 | Common.java | 64 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-09-22 16:20:15,629 | Common.java | 64 | Getting value of PageLoadWaitTime from Test Configuration file : 50
+ INFO | 2016-09-22 16:20:15,629 | Common.java | 64 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-09-22 16:20:15,629 | Common.java | 64 | Element time out set
+ INFO | 2016-09-22 16:20:15,629 | Common.java | 64 | ##### Start of Test Case : Determination of Wish List Page without Login #####
+ INFO | 2016-09-22 16:20:15,629 | Common.java | 64 | Test Case Name: TC_009
+ INFO | 2016-09-22 16:20:15,629 | Common.java | 64 | Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2016-09-22 16:20:15,682 | Common.java | 64 | Test Data Set Name: TC_009
+ INFO | 2016-09-22 16:20:15,683 | Common.java | 64 | Execution Flag: Execute
+ INFO | 2016-09-22 16:20:15,683 | Common.java | 64 | Test Data Set Name: TC_009_WLWL_1
+ INFO | 2016-09-22 16:20:15,683 | Common.java | 64 | Execution Flag: YES
+ INFO | 2016-09-22 16:20:15,683 | Common.java | 64 | Test Data Set Name: TC_009_WLWL_2
+ INFO | 2016-09-22 16:20:15,683 | Common.java | 64 | Execution Flag: NO
+ INFO | 2016-09-22 16:20:15,683 | Common.java | 64 | Test Data Set Name: TC_009_WLWL_3
+ INFO | 2016-09-22 16:20:15,683 | Common.java | 64 | Execution Flag: NO
+ INFO | 2016-09-22 16:20:15,683 | Common.java | 64 | Test Data Set Name: 
+ INFO | 2016-09-22 16:20:15,683 | Common.java | 64 | Execution Flag: 
+ INFO | 2016-09-22 16:20:15,683 | Common.java | 64 | Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2016-09-22 16:20:17,745 | Common.java | 64 | Getting value of url from Test Configuration file : http://www.havertys.com/
+ INFO | 2016-09-22 16:20:28,415 | Common.java | 64 | Clicked on WebElement-Wish List Link
+ERROR | 2016-09-22 16:20:28,415 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:20:34,547 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:20:34,547 | Common.java | 64 | Successfully Navigated to SIGN INPage!!
+ERROR | 2016-09-22 16:20:34,547 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:20:37,126 | Common.java | 64 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-09-22 16:20:37,127 | Common.java | 64 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-09-22 16:20:37,127 | Common.java | 64 | Getting value of PageLoadWaitTime from Test Configuration file : 50
+ INFO | 2016-09-22 16:20:37,127 | Common.java | 64 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-09-22 16:20:37,127 | Common.java | 64 | Element time out set
+ INFO | 2016-09-22 16:20:37,127 | Common.java | 64 | ##### Start of Test Case : Determination of Wish List Page with Valid Login #####
+ INFO | 2016-09-22 16:20:37,127 | Common.java | 64 | Test Case Name: TC_010
+ INFO | 2016-09-22 16:20:37,127 | Common.java | 64 | Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2016-09-22 16:20:37,182 | Common.java | 64 | Test Data Set Name: TC_010
+ INFO | 2016-09-22 16:20:37,182 | Common.java | 64 | Execution Flag: Execute
+ INFO | 2016-09-22 16:20:37,182 | Common.java | 64 | Test Data Set Name: TC_010_WLVL_1
+ INFO | 2016-09-22 16:20:37,182 | Common.java | 64 | Execution Flag: YES
+ INFO | 2016-09-22 16:20:37,182 | Common.java | 64 | Test Data Set Name: TC_010_WLVL_2
+ INFO | 2016-09-22 16:20:37,182 | Common.java | 64 | Execution Flag: NO
+ INFO | 2016-09-22 16:20:37,182 | Common.java | 64 | Test Data Set Name: TC_010_WLVL_3
+ INFO | 2016-09-22 16:20:37,182 | Common.java | 64 | Execution Flag: NO
+ INFO | 2016-09-22 16:20:37,182 | Common.java | 64 | Test Data Set Name: 
+ INFO | 2016-09-22 16:20:37,182 | Common.java | 64 | Execution Flag: 
+ INFO | 2016-09-22 16:20:37,183 | Common.java | 64 | Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2016-09-22 16:20:38,006 | Common.java | 64 | Getting value of url from Test Configuration file : http://www.havertys.com/
+ INFO | 2016-09-22 16:20:47,605 | Common.java | 64 | Clicked on WebElement-Sign In
+ERROR | 2016-09-22 16:20:47,605 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:20:53,919 | Common.java | 64 | Entered value - qwerty@gmail.com in the text field- Email Id
+ERROR | 2016-09-22 16:20:53,920 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:20:53,920 | Common.java | 64 | Entered Email Id as: qwerty@gmail.com
+ERROR | 2016-09-22 16:20:53,920 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:20:54,021 | Common.java | 64 | Entered value - 123456 in the text field- Password
+ERROR | 2016-09-22 16:20:54,022 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:20:54,022 | Common.java | 64 | Entered Password as: 123456
+ERROR | 2016-09-22 16:20:54,023 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:20:54,092 | Common.java | 64 | Clicked on WebElement-Login Submit
+ERROR | 2016-09-22 16:20:54,092 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:20:58,217 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:20:58,217 | Common.java | 64 | Successfully Navigated to MyHavertysPage!!
+ERROR | 2016-09-22 16:20:58,217 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:20:58,319 | Common.java | 64 | Clicked on WebElement-Wish List Link
+ERROR | 2016-09-22 16:20:58,319 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:21:02,575 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:21:02,575 | Common.java | 64 | Successfully Navigated to Wish listPage!!
+ERROR | 2016-09-22 16:21:02,576 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:21:04,629 | Common.java | 64 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-09-22 16:21:04,630 | Common.java | 64 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-09-22 16:21:04,630 | Common.java | 64 | Getting value of PageLoadWaitTime from Test Configuration file : 50
+ INFO | 2016-09-22 16:21:04,630 | Common.java | 64 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-09-22 16:21:04,630 | Common.java | 64 | Element time out set
+ INFO | 2016-09-22 16:21:04,630 | Common.java | 64 | ##### Start of Test Case : Verifying Add to WishList without Login (Wrangler sofa) #####
+ INFO | 2016-09-22 16:21:04,630 | Common.java | 64 | Test Case Name: TC_011
+ INFO | 2016-09-22 16:21:04,630 | Common.java | 64 | Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2016-09-22 16:21:04,689 | Common.java | 64 | Test Data Set Name: TC_011
+ INFO | 2016-09-22 16:21:04,689 | Common.java | 64 | Execution Flag: Execute
+ INFO | 2016-09-22 16:21:04,689 | Common.java | 64 | Test Data Set Name: TC_011_WLAL_1
+ INFO | 2016-09-22 16:21:04,689 | Common.java | 64 | Execution Flag: YES
+ INFO | 2016-09-22 16:21:04,689 | Common.java | 64 | Test Data Set Name: TC_011_WLAL_2
+ INFO | 2016-09-22 16:21:04,689 | Common.java | 64 | Execution Flag: NO
+ INFO | 2016-09-22 16:21:04,689 | Common.java | 64 | Test Data Set Name: TC_011_WLAL_3
+ INFO | 2016-09-22 16:21:04,689 | Common.java | 64 | Execution Flag: NO
+ INFO | 2016-09-22 16:21:04,690 | Common.java | 64 | Test Data Set Name: 
+ INFO | 2016-09-22 16:21:04,690 | Common.java | 64 | Execution Flag: 
+ INFO | 2016-09-22 16:21:04,690 | Common.java | 64 | Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2016-09-22 16:21:06,281 | Common.java | 64 | Getting value of url from Test Configuration file : http://www.havertys.com/
+ INFO | 2016-09-22 16:21:16,083 | Common.java | 64 | Entered value - Wrangler Sofa in the text field- Search Box
+ERROR | 2016-09-22 16:21:16,083 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:21:16,193 | Common.java | 64 | Clicked on WebElement-Searching Element
+ERROR | 2016-09-22 16:21:16,194 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:21:23,088 | Common.java | 64 | Clicked on WebElement-Wrangler Sofa
+ERROR | 2016-09-22 16:21:23,088 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:21:30,048 | Common.java | 64 | Clicked on WebElement-Add to Wish List
+ERROR | 2016-09-22 16:21:30,048 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:21:30,049 | Common.java | 64 | Added to Wish list
+ERROR | 2016-09-22 16:21:30,049 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:21:36,077 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:21:36,078 | Common.java | 64 | Successfully Navigated to SIGN INPage!!
+ERROR | 2016-09-22 16:21:36,078 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:21:38,649 | Common.java | 64 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-09-22 16:21:38,649 | Common.java | 64 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-09-22 16:21:38,649 | Common.java | 64 | Getting value of PageLoadWaitTime from Test Configuration file : 50
+ INFO | 2016-09-22 16:21:38,649 | Common.java | 64 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-09-22 16:21:38,649 | Common.java | 64 | Element time out set
+ INFO | 2016-09-22 16:21:38,649 | Common.java | 64 | ##### Start of Test Case : Verifying Add to WishList with Valid Login (Wrangler sofa) #####
+ INFO | 2016-09-22 16:21:38,650 | Common.java | 64 | Test Case Name: TC_012
+ INFO | 2016-09-22 16:21:38,650 | Common.java | 64 | Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2016-09-22 16:21:38,702 | Common.java | 64 | Test Data Set Name: TC_012
+ INFO | 2016-09-22 16:21:38,702 | Common.java | 64 | Execution Flag: Execute
+ INFO | 2016-09-22 16:21:38,702 | Common.java | 64 | Test Data Set Name: TC_012_WLAV_1
+ INFO | 2016-09-22 16:21:38,702 | Common.java | 64 | Execution Flag: YES
+ INFO | 2016-09-22 16:21:38,702 | Common.java | 64 | Test Data Set Name: TC_012_WLAV_2
+ INFO | 2016-09-22 16:21:38,702 | Common.java | 64 | Execution Flag: NO
+ INFO | 2016-09-22 16:21:38,702 | Common.java | 64 | Test Data Set Name: TC_012_WLAV_3
+ INFO | 2016-09-22 16:21:38,702 | Common.java | 64 | Execution Flag: NO
+ INFO | 2016-09-22 16:21:38,702 | Common.java | 64 | Test Data Set Name: 
+ INFO | 2016-09-22 16:21:38,702 | Common.java | 64 | Execution Flag: 
+ INFO | 2016-09-22 16:21:38,703 | Common.java | 64 | Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2016-09-22 16:21:40,800 | Common.java | 64 | Getting value of url from Test Configuration file : http://www.havertys.com/
+ INFO | 2016-09-22 16:21:52,318 | Common.java | 64 | Entered value - Amalfi Sofa in the text field- Search Box
+ERROR | 2016-09-22 16:21:52,318 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:21:52,408 | Common.java | 64 | Clicked on WebElement-Searching Element
+ERROR | 2016-09-22 16:21:52,409 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:21:57,322 | Common.java | 64 | Clicked on WebElement-Amalfi Sofa
+ERROR | 2016-09-22 16:21:57,322 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:21:57,322 | Common.java | 64 | Navigated to Product Page!!
+ERROR | 2016-09-22 16:21:57,323 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:21:57,529 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:22:02,243 | Common.java | 64 | Clicked on WebElement-Add to Wish List
+ERROR | 2016-09-22 16:22:02,243 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:22:02,244 | Common.java | 64 | Added to Wish list
+ERROR | 2016-09-22 16:22:02,244 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:22:08,939 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:22:08,939 | Common.java | 64 | Successfully Navigated to SIGN INPage!!
+ERROR | 2016-09-22 16:22:08,939 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:22:09,067 | Common.java | 64 | Entered value - cfg123@gmail.com in the text field- Email Id
+ERROR | 2016-09-22 16:22:09,067 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:22:09,067 | Common.java | 64 | Entered Email Id as: cfg123@gmail.com
+ERROR | 2016-09-22 16:22:09,067 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:22:09,179 | Common.java | 64 | Entered value - 123456 in the text field- Password
+ERROR | 2016-09-22 16:22:09,179 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:22:09,179 | Common.java | 64 | Entered Password as: 123456
+ERROR | 2016-09-22 16:22:09,179 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:22:09,251 | Common.java | 64 | Clicked on WebElement-Login Submit
+ERROR | 2016-09-22 16:22:09,251 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:22:13,944 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:22:13,944 | Common.java | 64 | Successfully Navigated to Wish listPage!!
+ERROR | 2016-09-22 16:22:13,944 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:22:16,714 | Common.java | 64 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-09-22 16:22:16,715 | Common.java | 64 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-09-22 16:22:16,715 | Common.java | 64 | Getting value of PageLoadWaitTime from Test Configuration file : 50
+ INFO | 2016-09-22 16:22:16,715 | Common.java | 64 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-09-22 16:22:16,715 | Common.java | 64 | Element time out set
+ INFO | 2016-09-22 16:22:16,715 | Common.java | 64 | ##### Start of Test Case : Remove item from Wish List #####
+ INFO | 2016-09-22 16:22:16,715 | Common.java | 64 | Test Case Name: TC_013
+ INFO | 2016-09-22 16:22:16,715 | Common.java | 64 | Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2016-09-22 16:22:16,771 | Common.java | 64 | Test Data Set Name: TC_013
+ INFO | 2016-09-22 16:22:16,771 | Common.java | 64 | Execution Flag: Execute
+ INFO | 2016-09-22 16:22:16,771 | Common.java | 64 | Test Data Set Name: TC_013_WLR_1
+ INFO | 2016-09-22 16:22:16,771 | Common.java | 64 | Execution Flag: YES
+ INFO | 2016-09-22 16:22:16,771 | Common.java | 64 | Test Data Set Name: TC_013_WLR_2
+ INFO | 2016-09-22 16:22:16,772 | Common.java | 64 | Execution Flag: NO
+ INFO | 2016-09-22 16:22:16,772 | Common.java | 64 | Test Data Set Name: TC_013_WLR_3
+ INFO | 2016-09-22 16:22:16,772 | Common.java | 64 | Execution Flag: NO
+ INFO | 2016-09-22 16:22:16,772 | Common.java | 64 | Test Data Set Name: 
+ INFO | 2016-09-22 16:22:16,772 | Common.java | 64 | Execution Flag: 
+ INFO | 2016-09-22 16:22:16,772 | Common.java | 64 | Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2016-09-22 16:22:18,616 | Common.java | 64 | Getting value of url from Test Configuration file : http://www.havertys.com/
+ INFO | 2016-09-22 16:22:30,152 | Common.java | 64 | Clicked on WebElement-Sign In
+ERROR | 2016-09-22 16:22:30,153 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:22:35,055 | Common.java | 64 | Entered value - cfg123@gmail.com in the text field- Email Id
+ERROR | 2016-09-22 16:22:35,055 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:22:35,056 | Common.java | 64 | Entered Email Id as: cfg123@gmail.com
+ERROR | 2016-09-22 16:22:35,056 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:22:35,162 | Common.java | 64 | Entered value - 123456 in the text field- Password
+ERROR | 2016-09-22 16:22:35,162 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:22:35,162 | Common.java | 64 | Entered Password as: 123456
+ERROR | 2016-09-22 16:22:35,163 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:22:35,232 | Common.java | 64 | Clicked on WebElement-Login Submit
+ERROR | 2016-09-22 16:22:35,232 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:22:39,928 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:22:39,928 | Common.java | 64 | Successfully Navigated to MyHavertysPage!!
+ERROR | 2016-09-22 16:22:39,928 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:22:40,002 | Common.java | 64 | Clicked on WebElement-Wish List Link
+ERROR | 2016-09-22 16:22:40,003 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:22:43,791 | Common.java | 64 | Clicked on WebElement-Remove Item
+ERROR | 2016-09-22 16:22:43,791 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:22:45,814 | Common.java | 64 | Popup Message displayed--> "Item has been removed from your wishlist"
+ERROR | 2016-09-22 16:22:45,814 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-22 16:22:46,019 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-22 16:22:48,942 | Common.java | 64 | Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2016-09-22 16:22:48,942 | Common.java | 64 | Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2016-09-22 16:22:48,942 | Common.java | 64 | Getting value of VoiceCall(Yes/No) from Test Configuration file : No
+ INFO | 2016-09-22 16:22:48,942 | Common.java | 64 | ###################################
+ INFO | 2016-09-22 16:22:48,942 | Common.java | 64 | Script Execution Complete
+ INFO | 2016-09-22 16:22:48,942 | Common.java | 64 | ####################################

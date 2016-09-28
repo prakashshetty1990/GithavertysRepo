@@ -1,0 +1,61 @@
+ INFO | 2016-09-23 13:02:48,384 | Common.java | 64 | Startup activites...
+ INFO | 2016-09-23 13:02:48,386 | Common.java | 64 | Test Output Directory creation successful :D:\SWAUT\TestResults\2016_09_23_01_02_48_PM
+ INFO | 2016-09-23 13:02:48,386 | Common.java | 64 | Log File creation successful : LogFile.log
+ INFO | 2016-09-23 13:02:48,586 | Common.java | 64 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2016-09-23 13:02:48,675 | Common.java | 64 | Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2016-09-23 13:02:48,835 | Common.java | 64 | Getting value of Browser from Test Configuration file : iexplore
+ INFO | 2016-09-23 13:02:48,836 | Common.java | 64 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-09-23 13:02:48,836 | Common.java | 64 | Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2016-09-23 13:02:48,837 | Common.java | 64 | Getting value of PageLoadWaitTime from Test Configuration file : 50
+ INFO | 2016-09-23 13:02:48,837 | Common.java | 64 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-09-23 13:02:48,837 | Common.java | 64 | Element time out set
+ INFO | 2016-09-23 13:02:48,837 | Common.java | 64 | ##### Start of Test Case : Protection Plan Without Login #####
+ INFO | 2016-09-23 13:02:48,838 | Common.java | 64 | Test Case Name: TC_001
+ INFO | 2016-09-23 13:02:48,838 | Common.java | 64 | Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2016-09-23 13:02:48,882 | Common.java | 64 | Test Data Set Name: TC_001
+ INFO | 2016-09-23 13:02:48,882 | Common.java | 64 | Execution Flag: Execute
+ INFO | 2016-09-23 13:02:48,883 | Common.java | 64 | Test Data Set Name: TC_001_PPWL_1
+ INFO | 2016-09-23 13:02:48,883 | Common.java | 64 | Execution Flag: YES
+ INFO | 2016-09-23 13:02:48,883 | Common.java | 64 | Test Data Set Name: TC_001_PPWL_2
+ INFO | 2016-09-23 13:02:48,883 | Common.java | 64 | Execution Flag: NO
+ INFO | 2016-09-23 13:02:48,883 | Common.java | 64 | Test Data Set Name: TC_001_PPWL_3
+ INFO | 2016-09-23 13:02:48,884 | Common.java | 64 | Execution Flag: NO
+ INFO | 2016-09-23 13:02:48,884 | Common.java | 64 | Test Data Set Name: 
+ INFO | 2016-09-23 13:02:48,884 | Common.java | 64 | Execution Flag: 
+ INFO | 2016-09-23 13:02:48,887 | Common.java | 64 | Getting value of Browser from Test Configuration file : iexplore
+ INFO | 2016-09-23 13:02:58,339 | Common.java | 64 | Getting value of url from Test Configuration file : http://www.havertys.com/
+ INFO | 2016-09-23 13:03:02,920 | Common.java | 64 | Entered value - Amalfi Sofa in the text field- Search Box
+ERROR | 2016-09-23 13:03:02,920 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-23 13:03:02,921 | Common.java | 64 | Entered in Search Box as: Amalfi Sofa
+ERROR | 2016-09-23 13:03:02,921 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-23 13:03:07,463 | Common.java | 64 | Clicked on WebElement-Searching Element
+ERROR | 2016-09-23 13:03:07,463 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-23 13:03:26,542 | Common.java | 64 | Clicked on WebElement-Amalfi Sofa
+ERROR | 2016-09-23 13:03:26,542 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-23 13:03:26,783 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-23 13:03:27,226 | Common.java | 64 | Clicked on WebElement-Add To Cart Button
+ERROR | 2016-09-23 13:03:27,226 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-23 13:03:27,763 | Common.java | 64 | Entered value - 30343 in the text field- Zipcode
+ERROR | 2016-09-23 13:03:27,764 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-23 13:03:27,764 | Common.java | 64 | Entered in ZipCode as: 30343
+ERROR | 2016-09-23 13:03:27,764 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-23 13:03:29,905 | Common.java | 64 | Clicked on -Popup Ok- Element
+ERROR | 2016-09-23 13:03:29,905 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-23 13:03:29,905 | Common.java | 64 | Successfully Added to Cart
+ERROR | 2016-09-23 13:03:29,905 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-23 13:03:30,092 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-23 13:03:35,759 | Common.java | 64 | Clicked on WebElement-Go To Cart Button
+ERROR | 2016-09-23 13:03:35,759 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-23 13:03:36,102 | Common.java | 64 | Expected Protection Plan Amount in Shopping Cart is 0 -->and Actual is -->0.0
+ERROR | 2016-09-23 13:03:36,102 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-23 13:03:37,702 | Common.java | 64 | Clicked on WebElement-Checkout Button
+ERROR | 2016-09-23 13:03:37,703 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-23 13:03:43,901 | Common.java | 64 | Taken screenshot of failing screen
+ INFO | 2016-09-23 13:03:43,901 | Common.java | 64 | Successfully Navigated to signPage!!
+ERROR | 2016-09-23 13:03:43,901 | Common.java | 79 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-09-23 13:03:45,802 | Common.java | 64 | Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2016-09-23 13:03:45,803 | Common.java | 64 | Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2016-09-23 13:03:45,803 | Common.java | 64 | Getting value of VoiceCall(Yes/No) from Test Configuration file : No
+ INFO | 2016-09-23 13:03:45,803 | Common.java | 64 | ###################################
+ INFO | 2016-09-23 13:03:45,803 | Common.java | 64 | Script Execution Complete
+ INFO | 2016-09-23 13:03:45,803 | Common.java | 64 | ####################################

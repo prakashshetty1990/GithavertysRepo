@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><suite configfailurepolicy="continue" name="Suite" parallel="none">
+  <test name="Test" preserve-order="true">
+    <classes>
+      <class name="TestCases.TestCases"/>
+      <methods>
+        <include name="TC_001"/>
+        <include name="TC_002"/>
+        <include name="TC_003"/>
+        <exclude name="4"/>
+        <include name="TC_005"/>
+        <exclude name="6"/>
+        <include name="TC_007"/>
+        <include name="TC_008"/>
+        <include name="TC_009"/>
+        <include name="TC_010"/>
+        <include name="TC_011"/>
+        <include name="TC_012"/>
+        <include name="TC_013"/>
+      </methods>
+    </classes>
+  </test>
+</suite>
